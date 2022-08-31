@@ -1,6 +1,9 @@
 build/
 .idea/
+compiler/lib/
+third_party/
 cmake-build-debug*/
 compiler/antlr_generate/*.h
 compiler/antlr_generate/*.cpp
-compiler/antlr4_runtime/
+compiler/antlr4-runtime/
+
