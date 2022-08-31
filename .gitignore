@@ -1,5 +1,4 @@
 build/
 .idea/
-compiler/antlr_generate/
 compiler/antrl4_runtime/*.cpp
 compiler/antrl4_runtime/*.h
