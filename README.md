@@ -9,9 +9,8 @@
 目前Compiler仅可以在Linux环境下构建，不支持``MSVC`
 
 ```shell
-# 1. 从github克隆下来
-git clone https://
-cd hydrogencompiler
+# 从github克隆下来
+cd HyCompiler
 # 构建ANTLR4运行时库支持,前提得先安装Java，执行项目目录下的脚本
 python3 deploy_env.py
 # 使用cmake构建项目
@@ -58,7 +57,7 @@ Usage:
 
 - 邹仁([Devotes](https://github.com/zourenDevote)):中南大学
 
-- 吴杭宇([FirePixel]()):中南大学
+- 吴杭宇([FirePixel](https://github.com/Thirty-creed)):中南大学
 
 ##  指导老师
 
